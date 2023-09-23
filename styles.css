@@ -1,0 +1,15 @@
+#student-table tbody tr {
+    border: 1px solid #ccc; /* Border for rows */
+}
+#student-table td, #student-table th {
+    border: 1px solid #ccc; /* Border for cells */
+    padding: 10px  35px 10px 35px; /* Add padding for better spacing */
+}
+.search-container{
+    width: 100%;
+    #search{
+        width: 90%;
+        margin: 10px 0px 10px 0px;
+        /* background-color: blue; */
+    }
+}
